@@ -15,9 +15,7 @@ import logging
 import json
 import io
 import os
-
 from fastai.vision.all import *
-import requests
 
 logger = logging.getLogger(__name__)
 logger.setLevel(logging.DEBUG)
